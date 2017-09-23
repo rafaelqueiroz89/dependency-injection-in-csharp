@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency Injection", "Dependency Injection.csproj", "{F32D3575-E079-4590-958B-880061F9A925}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registration Concepts", "Registration Concepts.csproj", "{F32D3575-E079-4590-958B-880061F9A925}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
