@@ -47,7 +47,11 @@
   <ItemGroup>
     <Compile Include="CarEngineDI.cs" />
     <Compile Include="CarEngineWithoutDI.cs" />
+    <Compile Include="ChoiceOfConstructor.cs" />
+    <Compile Include="DefaultRegistrationcs.cs" />
+    <Compile Include="GenericComponents.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisteringInstances.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
