@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Autofac;
 
-namespace AutofacSamples
+namespace DefaultRegistrationcs
 {
     public interface ILog
     {

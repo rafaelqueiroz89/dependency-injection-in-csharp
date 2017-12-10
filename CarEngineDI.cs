@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 /// <summary>
 /// 
 /// </summary>
-namespace Dependency_Injection
+namespace CarEngineDI
 {
     public interface ILog
     {

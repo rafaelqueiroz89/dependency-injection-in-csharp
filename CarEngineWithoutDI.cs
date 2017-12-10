@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Dependency_Injection
+namespace CarEngineWithoutDI
 {
     /// <summary>
     /// This example shows a particular problem, we have an interface ILog
